@@ -7,4 +7,6 @@
  */
 function ggg(){
     echo "nestp";
+    $r=1;
+    echo $r;
 }
