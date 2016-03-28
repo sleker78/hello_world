@@ -10,3 +10,4 @@ function ggg(){
 }
 
 //dodali smo komentar
+//pa jos jedan komentar
