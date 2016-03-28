@@ -8,3 +8,5 @@
 function ggg(){
     echo "nestp";
 }
+
+//dodali smo komentar
