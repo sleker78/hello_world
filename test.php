@@ -7,6 +7,7 @@
  */
 function ggg(){
     echo "nestp";
+	echo "PROMENA ZA BRANCH";
 }
 
 //dodali smo komentar
