@@ -7,6 +7,7 @@
  */
 function ggg(){
     echo "nestp";
+	echo "PROMENA ZA BRANCH";
 }
 
 //NOV MASTER2
