@@ -10,4 +10,7 @@ function ggg(){
 	echo "PROMENA ZA BRANCH";
 }
 
-//NOV MASTER2
+//dodali smo komentar
+//pa jos jedan komentar
+//pa sada ovde na githubu
+//a sa u lokalu
