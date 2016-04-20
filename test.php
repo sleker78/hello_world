@@ -14,3 +14,4 @@ function ggg(){
 //pa jos jedan komentar
 //pa sada ovde na githubu
 //a sa u lokalu
+//PROMENAAA
