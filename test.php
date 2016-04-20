@@ -7,10 +7,7 @@
  */
 function ggg(){
     echo "nestp";
-	echo "PROMENA ZA BRANCH";
+	
 }
 
-//dodali smo komentar
-//pa jos jedan komentar
-//pa sada ovde na githubu
-//a sa u lokalu
+//BLA BLA BLA
