@@ -1,1 +1,1 @@
-ALTER TABLE submission_authors ADD presenter int(1) NOT NULL DEFAULT 0;
+HSHSHSHSH
